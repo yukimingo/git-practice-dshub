@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 modeified
 conflictブランチで変更（コンフリクト発生）
-conflict-remote上で更新
+rebase-practiceで更新
